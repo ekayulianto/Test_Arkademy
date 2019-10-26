@@ -1,0 +1,12 @@
+Cara Menjalankan program dapat menggunakan Jupyter Notebok (python 3)
+
+atau melalui Google Colab (oniline editor)
+1. open(www.colab.research,google.com)
+2. Pilih File > Upload file> (upload file yang ingin dibuka)
+
+
+
+
+Tq
+
+Eka Yulianto
